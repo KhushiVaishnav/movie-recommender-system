@@ -2,6 +2,10 @@
 
 A content-based Movie Recommender System built using Python and Streamlit. The application recommends similar movies based on movie metadata.
 
+## 🔗 Live Demo
+
+https://movie-recommender-khushi.streamlit.app/
+
 ## 🚀 Features
 
 - Select a movie from the available list
